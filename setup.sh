@@ -35,7 +35,7 @@ brew install youtube-dl \
 	handbrake
 
 brew cask install \
-	adobe-creative-cloud\
+	adobe-creative-cloud \
 	betwixt \
 	calibre \
 	disk-inventory-x \
